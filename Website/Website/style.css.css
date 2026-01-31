@@ -1,0 +1,67 @@
+body {
+    background-color: red;
+    text-align: center;
+}
+
+.firstbox {
+    background-color:blue;
+    height: 250px;
+    margin:30px;
+    border: none;
+    border-radius: 20px;
+    align-items: center;
+}
+.secondbox {
+    background-color: blueviolet;
+    margin: 0px 30px 30px;
+    border: none;
+    border-radius:20px;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.thirdbox {
+    background-color: brown;
+    width:250px;
+    margin:auto;
+    height:70%;
+}
+
+.circleone {
+    background-color: white;
+    border:none;
+    border-radius:150px;
+    width: 150px;
+    height: 150px;
+    margin: auto;
+}
+
+.bottombox {
+    background-color: black;
+    margin:0px 10px;
+    height:300px;
+}
+
+.fouthbox {
+    background-color: aqua;
+    width: 250px;
+    margin:auto;
+    height:70%;
+}
+
+.fifthbox {
+    background-color: yellow;
+    width: 250px;
+    margin:auto;
+    height:70%;
+}
+
+.sixbox {
+    background-color: orange;
+    width: 250px;
+    margin:auto;
+    margin-right: 85px;
+    height:70%;
+}
